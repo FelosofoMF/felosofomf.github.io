@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <body>
 <h1> YO ACABASTE DE ENTRAR NO SITE DO MATHEUS </h1>
